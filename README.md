@@ -4,7 +4,6 @@
   <a href="https://blog.csdn.net/zengfanwei1990"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
